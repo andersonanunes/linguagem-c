@@ -1,2 +1,2 @@
 # linguagem-c
-Projetos feitos em C
+Projetos feitos em C para aprendizado da linguagem
